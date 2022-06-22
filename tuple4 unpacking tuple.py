@@ -1,0 +1,6 @@
+name=('word1','word2','word3')
+na1,na2,na3=(name)
+print(na1)
+print(na2)
+print(na3)
+print(name)
