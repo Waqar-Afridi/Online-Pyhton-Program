@@ -1,0 +1,3 @@
+waqar,50
+amin,55
+ahmad,40
